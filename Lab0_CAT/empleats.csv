@@ -1,0 +1,11 @@
+id;name;salary;department_id;project_id
+1; 'Josep';21000;1;1
+2; 'Joan';18000;1;1
+3; 'Anna';28000;1;1
+4; 'Joaquim';15000;3;3
+5; 'Rubén';27000;7;1
+6; 'Anna';45000;9;2
+7; 'Patrícia';18000;4; NULL
+8; 'Patrick';35000;9; NULL
+9; 'John';30000;10;2
+10; 'Ariadna';38000;10; NULL
